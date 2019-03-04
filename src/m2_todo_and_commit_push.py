@@ -57,7 +57,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# DONE: 3.
+# TODO: 3.
 #   Add another   print   statement below this comment.
 #   It should print any string that you want (but keep it polite and G-rated!)
 #
@@ -68,7 +68,7 @@ print('Hello, World')
 #   Look at the  Run  window to be sure that your string printed as expected.
 #
 ###############################################################################
-print('lskdjflakjswfdl;skjlf;skjl')
+print('lksdlfsldf')
 
 ###############################################################################
 #
@@ -84,8 +84,8 @@ print('lskdjflakjswfdl;skjlf;skjl')
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
 ###############################################################################
-print(3607 * 34227)
 
+print(3607 * 34227)
 ###############################################################################
 #
 # TODO: 5.
